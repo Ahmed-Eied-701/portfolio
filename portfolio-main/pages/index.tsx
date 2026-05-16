@@ -38,7 +38,6 @@ export default function Home() {
     </div>
     <div className="hover:opacity-50">
     <a href='#'><Resume className="inline-block w-6 h-6 mb-1 mr-1 "/> Resume</a>
-    {/* <a href='https://drive.google.com/file/d/1XuPrXzE5XgaAGwy4iY_HlE7NG54DkJa8/view?usp=sharing'><Resume className="inline-block w-6 h-6 mb-1 mr-1 "/> Resume</a> */}
     </div>
     <div className="hover:opacity-50">
     <a href='mailto:ahmed.eied701@gmail.com'><Contact className="inline-block w-6 h-6 mb-1 mr-1"/> Contact</a>
